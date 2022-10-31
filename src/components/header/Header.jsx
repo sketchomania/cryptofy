@@ -53,7 +53,10 @@ const Header = () => {
               className={classes.title}
               variant="h6"
             >
-              Cryptofy 📊
+              Cryptofy{" "}
+              <span role="img" aria-label="Chart">
+                📊
+              </span>
             </Typography>
             <Select
               variant="outlined"
