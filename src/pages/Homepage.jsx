@@ -5,14 +5,6 @@ const Homepage = () => {
   return (
     <>
       <Banner />
-      <div>
-        <h2>
-          Homepage{" "}
-          <span role="img" aria-label="Rocket">
-            🚀🚀
-          </span>{" "}
-        </h2>
-      </div>
     </>
   );
 };
