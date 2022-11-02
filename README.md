@@ -39,7 +39,7 @@ Cryptofy is a Realtime Crypto Currency tracker made using React JS, Material UI 
  <li> Authentication features. </li>
 </ul>
 
-### Screenshots :
+### Screenshots : (Pending)
 
 ### Hompage :
 
