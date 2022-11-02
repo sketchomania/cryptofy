@@ -1,6 +1,7 @@
 const Colors = {
   appDark: "#14161a",
-
+  blackTableBackground: "#16171a",
+  hoverTableBackground: "#131111",
   white: "#ffffff",
   black: "#000000",
   gold: "#FFDF00",
