@@ -1,3 +1,56 @@
+# Cryptofy
+
+Cryptofy is a Realtime Crypto Currency tracker made using React JS, Material UI and Chart JS.It uses Context API to manage the state of app.This is a responsive web application for viewing in both Mobile and Desktop.
+
+## Tech Stack :
+
+* **Client:** React JS
+
+* **Database:** Firebase
+
+* **UI:** Material-UI
+
+## Live :
+
+## 
+
+## Hompage :
+
+*** home page ss in png (pending)....
+
+## Features : 
+
+<br/>
+
+<ul>
+ <li> Cryptofy is simple crypto currency tracker. </li>
+ <li> It has Carousel to shows all of the trending coins in past 24 hours. </li>
+ <li> All shows list of coins sorted according to the market cap. </li>
+ <li> Pagination component to switch between different coin prices. </li>
+ <li> Search box to search for particular coin price. </li>
+ <li> User can see the prices of coins in Indian Currency (INR) and US Dollar (USD) </li>
+ <li> User can see the complete detials of a particular coin.It includes :  </li>
+ <li> Current price, rank, market cap </li>
+ <li> Historical graph of a particular coin in past 24 hr, 30 days, 3 months </li>
+ <li> It also has feature of adding a particular to a watchlist </li>
+ <li> User can Signup/Login using with Email or Gmail </li>
+ <li> Watchlist of User is persistent. </li>
+ <li> Particular Coins can be deleted from User's watchlist. </li>
+ <li> Authentication features. </li>
+</ul>
+
+### Screenshots :
+
+### Hompage :
+
+### Login/ Signup
+
+### Specific Cryptocoin page
+
+
+##
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
