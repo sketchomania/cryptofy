@@ -33,7 +33,7 @@ const useStyles = makeStyles({
   },
   pagination: {
     "& .MuiPaginationItem-root": {
-      color: Colors.sunsetOrange,
+      color: Colors.yellow,
     },
   },
 });
@@ -56,7 +56,7 @@ const ListCoins = () => {
     setLoading(false);
   };
 
-  console.log("coins: ", coins, loading);
+  // console.log("coins: ", coins, loading);
 
   useEffect(() => {
     fetchCoins();
@@ -96,7 +96,7 @@ const ListCoins = () => {
             <LinearProgress style={{ backgroundColor: Colors.yellow }} />
           ) : (
             <Table>
-              <TableHead style={{ backgroundColor: Colors.sunsetOrange }}>
+              <TableHead style={{ backgroundColor: Colors.yellow }}>
                 <TableRow>
                   {["Coin", "Price", "24h Change", "Market Cap"].map((head) => (
                     <TableCell
